@@ -1,0 +1,9 @@
+Package: com.lfr.newcustomer
+Name: LFRNewCustomer
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Description: Random-IDs Spoof + JB/Frida/Debugger Hide
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate
